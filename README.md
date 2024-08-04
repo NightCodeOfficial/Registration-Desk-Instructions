@@ -1,5 +1,9 @@
 # Information for Registration Desk Volunteers
 
+## Note:
+- The word document in this repository contains the following information in docx format.
+
+## General
 - The materials for each attendee are in their corresponding envelope.
 - The envelopes are alphabetized.
 
